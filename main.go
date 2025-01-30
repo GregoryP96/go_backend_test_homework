@@ -1,3 +1,4 @@
+// Homework requirement
 package main
 
 import (
